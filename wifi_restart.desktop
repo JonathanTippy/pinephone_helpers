@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
 Name=wifi_restart
-Exec=~/.local/share/applications/wifi_restart.sh
+Exec=/home/user/.local/share/applications/wifi_restart.sh
 Icon=/usr/share/icons/Adwaita/96x96/status/network-wireless-offline-symbolic.symbolic.png
 StartupNotify=false
