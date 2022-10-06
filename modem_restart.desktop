@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
 Name=modem_restart
-Exec=~/.local/share/applications/modem_restart.sh
+Exec=/home/user/.local/share/applications/modem_restart.sh
 Icon=/usr/share/icons/Adwaita/96x96/status/network-cellular-signal-none-symbolic.symbolic.png
 StartupNotify=false
