@@ -8,4 +8,4 @@ How to install:
 - Save modem_restart.sh, wifi_restart.sh, modem_restart.desktop, and wifi_restart.desktop to ~/.local/share/applications
 Dependancies:
 - pkexec
-
+- adwaita theme
