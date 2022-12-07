@@ -10,4 +10,3 @@ bash scripts and .desktop files to restart the modem or the wifi because they so
 
 ## Dependancies:
 - pkexec
-- adwaita theme
