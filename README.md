@@ -6,6 +6,7 @@ bash scripts and .desktop files to restart the modem or the wifi because they so
 
 ## How to install:
 - Save modem_restart.sh, wifi_restart.sh, modem_restart.desktop, and wifi_restart.desktop to ~/.local/share/applications
+- chmod the scripts to be executable
 - you may have to replace the home path in the .desktop files if your user is not "user"
 
 ## Dependancies:
