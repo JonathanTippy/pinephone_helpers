@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=video_landscape
+Exec=kgx -e /home/user/.local/share/applications/video_landscape.sh
+Icon=/home/user/.local/share/applications/icons/orientation-landscape-symbolic.symbolic.png
+StartupNotify=false

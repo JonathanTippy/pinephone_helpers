@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=video_portrait
+Exec=kgx -e /home/user/.local/share/applications/video_portrait.sh
+Icon=/home/user/.local/share/applications/icons/orientation-portrait-right-symbolic.symbolic.png
+StartupNotify=false

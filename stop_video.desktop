@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=stop_video
+Exec=/home/user/.local/share/applications/stop_video.sh
+Icon=/home/user/.local/share/applications/icons/media-playback-stop-symbolic.symbolic.png
+StartupNotify=false
