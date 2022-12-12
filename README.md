@@ -14,7 +14,7 @@ somehow there isn't a video app yet for the pinephone, so I wrote some scripts :
 - you may have to replace the home path in the .desktop files if your user is not "user"
 ### video
 - Save video_landscape.sh, video_portrait.sh, stop_video.sh, video_landscape.desktop, video_portrait.desktop, and stop_video.desktop to ~/.local/share/applications
-- chmode the scripts to be executable
+- chmod the scripts to be executable
 - you may have to replace the home path in the .desktop files if your user is not "user"
 
 ## Dependancies:
