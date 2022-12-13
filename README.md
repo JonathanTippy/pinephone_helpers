@@ -26,7 +26,7 @@ at the moment there is no good way to get mtp working for the pinephone, so I wr
 ### sshfs mounter
 - this one's for your pc!
 - first, make sure you follow the instructions at https://wiki.postmarketos.org/wiki/SSH so that you can connect to ssh without being asked for a password.
-- save phone_sshfs_mounter.sh wherever you likeon your pc.
+- save phone_sshfs_mounter.sh wherever you like on your pc.
 - edit the file with your favorite text editor.
 - either change the phone's ip, or edit the line " export WIFI_PINEPHONE_IP=10.10.10.76 " to reflect what ip the phone has when it is connected to wifi.
 - you can repeat this for the LAN and ETH lines. LAN is for when the pinephone is on your local network via ethernet.
