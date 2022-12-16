@@ -91,6 +91,8 @@ at the moment there is no good way to get mtp working for the pinephone, so I wr
 - you can repeat this for the LAN and ETH lines. LAN is for when the pinephone is on your local network via ethernet.
 - ETH is for when the phone is connected directly to your pc via ethernet.
 - if your user is not "user", make sure to edit $PINEPHONE_SSHFS_USER to reflect that.
+- if you leave USE_WIFI as 0, it will not attempt to connect via wifi. This is useful if you want your phone to be able to suspend while wifi is on.
+- If you don't care about that, you can switch USE_WIFI to 1 and the script will use wifi.
 - if you don't want it in your downloads folder, you can safely copy it to /usr/local/bin:
 - sudo cp ~/Downloads/pinephone_helpers/phone_sshfs_mounter.sh /usr/local/bin
 - use your OS to make phone_sshfs_mounter.sh run on login. for instance on manjaro you would add it to the "session and startup" "Application Autostart" tab.
